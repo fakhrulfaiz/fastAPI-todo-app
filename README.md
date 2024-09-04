@@ -1,1 +1,1 @@
-# fastAPI-todo-app
+# FastAPI todo app with JinjaTemplate
